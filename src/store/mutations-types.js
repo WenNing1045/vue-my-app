@@ -1,0 +1,5 @@
+export const RECEIVE_HOME = 'receive_home'
+export const RECEIVE_GOODS = 'receive_goods'
+export const RECEIVE_SPECIES = 'receive_species'
+export const RECEIVE_ITEM = 'receive_item'
+export const RECEIVE_BRAND = 'receive_brand'
